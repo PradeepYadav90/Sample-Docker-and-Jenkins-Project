@@ -7,12 +7,12 @@ A simple Flask-based REST API for managing to-do tasks. This project is containe
 -------------------------
 📁 Project Structure:
 -------------------------
-├── app.py             # Main Flask app logic
-├── requirements.txt   # Python dependencies
-├── Dockerfile         # Docker configuration
-├── Jenkinsfile        # Jenkins pipeline automation
-├── .gitignore         # Git ignored files
-└── README.md          # Project guide (this file)
+- app.py                      # Main Flask app logic
+- requirements.txt            # Python dependencies
+- Dockerfile                  # Docker configuration
+- Jenkinsfile                 # Jenkins pipeline automation
+- .gitignore                  # Git ignored files
+- README.md                   # Project guide (this file)
 
 -------------------------
 ☁️ Deploy on AWS EC2:
@@ -44,4 +44,5 @@ A simple Flask-based REST API for managing to-do tasks. This project is containe
 📦 requirements.txt:
 -------------------------
 flask
+
 
