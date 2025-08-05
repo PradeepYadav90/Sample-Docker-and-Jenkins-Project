@@ -1,5 +1,3 @@
-﻿# Sample-Docker-and-Jenkins-Project
-
 # Flask To-Do API
 
 A simple Flask-based REST API for managing to-do tasks. This project is containerized with Docker, ready for CI/CD with Jenkins, and deployable on an AWS EC2 instance.
@@ -44,5 +42,6 @@ A simple Flask-based REST API for managing to-do tasks. This project is containe
 📦 requirements.txt:
 -------------------------
 flask
+
 
 
